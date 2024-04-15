@@ -1,11 +1,10 @@
 """
+Created on Sun 14 Apr 18:23:45 2024
 Developed by João Gabriel
 @rpjoaogabriel on GitHub
 https://www.linkedin.com/in/joaogabrielrp/
-"
 Created on Sun 14 Apr 18:23:45 2024
-Basic Linear Regression
-Made by Jo
+Basic Linear Regression using random values for demonstration
 """
 
 import numpy as np
